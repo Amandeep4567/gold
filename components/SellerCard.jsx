@@ -6,7 +6,7 @@ const SellerCard = () => {
     <div className="max-w-sm rounded overflow-hidden shadow-lg">
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-4">Gold Provider</div>
-        <p className="text-gray-700 text-base">
+        <p className="text-gray-700 text-base text-justify">
           As Gold Providers, we ensure the smooth and secure transfer of gold
           from creators to enthusiasts. We uphold the highest standards of
           integrity and reliability in the process.

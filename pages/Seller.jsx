@@ -2,7 +2,7 @@ import React from "react";
 
 const Seller = () => {
   return (
-    <section className="">
+    <section className="w-full">
       <div className="">
         <button>Connect Wallet</button>
       </div>

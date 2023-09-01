@@ -2,7 +2,7 @@ import React from "react";
 
 const Buyer = () => {
   return (
-    <section className="">
+    <section className="w-full bg-gradient-to-r from-green-100 via-blue-100 to-purple-100">
       <div className="">
         <button>Connect Wallet</button>
       </div>

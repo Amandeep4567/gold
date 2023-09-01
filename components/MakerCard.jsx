@@ -6,7 +6,7 @@ const MakerCard = () => {
     <div className="max-w-sm rounded overflow-hidden shadow-lg">
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-4">Gold Creator</div>
-        <p className="text-gray-700 text-base">
+        <p className="text-gray-700 text-base text-justify">
           Our Gold Creators are the talented artisans behind each exquisite gold
           item. They transform raw gold into works of art, crafting pieces of
           beauty and value.
