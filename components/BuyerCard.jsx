@@ -13,7 +13,7 @@ const BuyerCard = () => {
         </p>
       </div>
       <div className="px-6 pt-4 pb-2 flex justify-center align-bottom">
-        <span className="inline-block bg-gray-300 rounded-full px-10 py-2 text-sm font-semibold text-gray-800 mr-2 mb-2">
+        <span className="inline-block bg-gray-300 rounded-full px-10 py-2 text-sm font-semibold text-gray-800 mr-2 mb-2 mt-10">
           <Link href="/Buyer">Buyer</Link>
         </span>
       </div>
