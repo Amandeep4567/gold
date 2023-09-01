@@ -5,16 +5,16 @@ const Hero = () => {
   return (
     <section className="w-full">
       <div className="">
-        <div className="flex justify-between p-6 cursor-pointer">
+        <div className="flex justify-between p-4 cursor-pointer">
           <div className="flex justify-center items-center">
             <Image
-              src="./assets/bull_trai.svg"
-              width={200}
-              height={200}
+              src="./assets/bullion-trail.svg"
+              width={120}
+              height={100}
               alt="Logo"
             />{" "}
           </div>
-          <div className="">
+          <div className="pt-4">
             <ul className="flex font-light text-[16px]">
               <li className="pr-14 hover:font-medium hover:border-b-2 hover:border-indigo-400">
                 Maker
@@ -30,7 +30,7 @@ const Hero = () => {
         </div>
       </div>
       <div className="flex justify-center">
-        <div className="mt-[130px]">
+        <div className="mt-[110px]">
           <p className="font-bold text-[40px] text-center flex justify-center">
             Blockchain solution enabling gold supply <br /> chain transparency
             and efficiency

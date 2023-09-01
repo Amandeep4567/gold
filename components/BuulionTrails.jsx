@@ -7,9 +7,9 @@ const BuulionTrails = () => {
   return (
     <div className="p-10">
       <div className="flex justify-around">
-        <BuyerCard />
         <MakerCard />
         <SellerCard />
+        <BuyerCard />
       </div>
     </div>
   );
